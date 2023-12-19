@@ -1,0 +1,53 @@
+commit 8d85191c86e22ad37654734be401be21464d41d2
+Author: jesse <jessejjr26@usp.br>
+Date:   Mon Dec 18 09:01:07 2023 -0300
+
+    teste
+
+commit 2f686a4832697733c339306dd78434ef5b24a77d
+Author: jesse <jessejjr26@usp.br>
+Date:   Mon Dec 18 08:59:29 2023 -0300
+
+    teste
+
+commit 4b4e6656196aebc174e8487803c3f06e7efca83d
+Author: Jessé <84997702+jessejj2000@users.noreply.github.com>
+Date:   Mon Dec 18 11:52:48 2023 -0300
+
+    Update git.txt
+
+commit 095a0430c3c66ad320e5269a3678d95afe64c39d
+Author: leo <leonardowatanabe@usp.br>
+Date:   Mon Dec 18 11:38:00 2023 -0300
+
+    Pratica finalizada
+
+commit 676e3cb9a36401fba44622965f7b69c685a1f4a5
+Author: jesse <jessejjr26@usp.br>
+Date:   Mon Dec 4 09:04:11 2023 -0300
+
+    senha nova
+
+commit 9945daf67408d7a864e6953a425f3412a0b3ed25
+Author: jesse <jessejjr26@usp.br>
+Date:   Mon Dec 4 08:56:10 2023 -0300
+
+    código exemplo
+
+commit 9695d55ec56af19d7b8fce29c43aef514216340b
+Author: jesse <jessejjr26@usp.br>
+Date:   Mon Dec 4 08:41:16 2023 -0300
+
+    download
+
+commit 2bb12d2562676daad81c1de78a77d294a52c21be
+Author: jesse <jessejjr26@usp.br>
+Date:   Mon Dec 4 08:21:22 2023 -0300
+
+    seila
+
+commit 4ec59128e133e3b11b3098ef7877790e421fd07c
+Author: Jessé <84997702+jessejj2000@users.noreply.github.com>
+Date:   Mon Dec 4 11:02:16 2023 -0300
+
+    Initial commit
